@@ -1,4 +1,4 @@
-Andrew Bolton, Nick Challinor, Daniyal Mahmood.
+Andrew Bolton, Nick Challinor, Daniyal Mahmood, Rhea Rao.
 
 1:
 Get just retrieves data from a server
