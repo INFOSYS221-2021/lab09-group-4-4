@@ -4,6 +4,7 @@ Get just retrieves data from a server
 https://deckofcardsapi.com/api/deck/new/shuffle/?deck_count=1
 
 2:
+
 Shuffle Cards,
 Draw a card,
 Reshuffle the cards,
@@ -15,9 +16,11 @@ Listing cards in a pile,
 Drawing from pile
 
 3:
+
 https://deckofcardsapi.com/api/deck/new/?jokers_enabled=true
 
 4:
+
 a: 2 card: King of Hearts, 8 of Clubs
 b: var deck = {
     "success": true,
