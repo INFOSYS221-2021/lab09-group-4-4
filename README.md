@@ -134,16 +134,16 @@ function getValueFromCard(cardInfo) {
   console.log(cardValue)
   // TODO 5: update the cardValue appropriately
   // if card is Jack, then set the cardValue to 11, etc
-  if (cardValue == 'J') {
+  if (cardValue == 'JACK') {
     cardValue = 11;
   }
-  else if (cardValue == 'Q') {
+  else if (cardValue == 'QUEEN') {
     cardValue = 12;
   } 
-  else if (cardValue == 'K') {
+  else if (cardValue == 'KING') {
     cardValue = 13;
   }
-  else if (cardValue == 'A') {
+  else if (cardValue == 'ACE') {
     cardValue = 1;
   }
   
