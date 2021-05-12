@@ -5,8 +5,8 @@ Get just retrieves data from a server
 
 https://deckofcardsapi.com/api/deck/new/shuffle/?deck_count=1
 
-2:
-Shuffle Cards,
+2:<br\>
+Shuffle Cards<br\>
 Draw a card,
 Reshuffle the cards,
 Get a new deck,
