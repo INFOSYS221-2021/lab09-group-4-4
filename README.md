@@ -42,10 +42,11 @@ var deck = {
 }
 
 console.log(deck["deck_id"])
-
 ```
 
-c: var deck = {
+c: 
+```
+var deck = {
     "success": true,
     "cards": [
         {
@@ -67,4 +68,4 @@ c: var deck = {
 
 for (card in deck["cards"])
     console.log(deck["cards"][card])
-
+```
